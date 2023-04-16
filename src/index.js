@@ -18,5 +18,4 @@ class BinarySearchTree {
     }
 }
 
-let test = new BinarySearchTree(6)
-console.log(test.root());
+
